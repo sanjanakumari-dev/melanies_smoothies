@@ -1,0 +1,8 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - hatch-requirements-txt=0.4.1
+  - python=3.8.*
+  - snowflake-snowpark-python=
+  - streamlit=
