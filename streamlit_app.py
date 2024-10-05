@@ -42,7 +42,7 @@ if ingredients_list:
      ingredients_string = ''
 
           for fruit_choosen in ingredients_list:
-              ingredients_string += fruit_choosen
+              ingredients_string += fruit_chosen
 
     #st.write(ingredients_string)
 
